@@ -1,1 +1,1 @@
-Android Application to detect and label objects in an image.
+Android Application to detect and label objects from an image.
